@@ -39,7 +39,7 @@ Durante o desenvolvimento destes laboratórios pratiquei:
 - Automação com Bash
 - Utilização do Nmap
 - Conceitos de TCP/IP
-- 
+
 ## Aviso
 
 Todos os projetos foram desenvolvidos para fins educacionais em ambientes controlados e autorizados.
