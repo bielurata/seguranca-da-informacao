@@ -27,7 +27,7 @@ Repositório contendo laboratórios e projetos desenvolvidos durante minha gradu
 
 ### pingsweep.sh
 
-chmod +x pingsweep.sh
+chmod +x pingsweep.sh -> 
 ./pingsweep.sh
 
 ### parsing.sh
